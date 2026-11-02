@@ -5,7 +5,7 @@ constexpr uint8_t LED_PIN = 4;
 
 constexpr int duty_val = 255;
 constexpr int setpoint = 1000;
-constexpr float Kp = 0.05;
+constexpr float Kp = 0.5;
 
 void setup() {
   // put your setup code here, to run once:
